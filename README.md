@@ -8,6 +8,11 @@ Simple menu using Arduino UNO, 128x64px SSD1306 OLED Display and u8g library.
 
 ![THUMB_flipper_zero_arduino_oled_menu](https://user-images.githubusercontent.com/117754156/211013886-2e71dfe1-d69c-4260-87b8-94f2f2390a59.jpg)
 
+Small Animation:
+
+![arduino_oled_menu_animation_short](https://user-images.githubusercontent.com/117754156/211044356-90bd9574-dbc5-432d-ab39-daa108b57817.gif)
+
+
 A simple menu using a 128x64 SSD1306 OLED Display connected using the IIC (I2C) interface to Arduino UNO together with three push buttons. The menu is inspired by the menu from Flipper Zero - https://docs.flipperzero.one/basics/control#M5BZO 
 
 **Links from the video:**
