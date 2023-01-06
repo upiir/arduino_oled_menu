@@ -56,6 +56,22 @@ Few screenshots from the video:
 ![CAMTASIA_flipper_zero_oled_menu (Time 0_27_49;19)](https://user-images.githubusercontent.com/117754156/211014581-5e4b257e-9a0e-4340-8c54-e8129a1aae96.png)
 
 
+![3dcube_screenshot](https://user-images.githubusercontent.com/117754156/211015869-4d426a91-f170-4635-993c-43c345ffedac.png)
+![3dcube_xqr](https://user-images.githubusercontent.com/117754156/211015873-d7cbb04e-b1a4-494b-bded-4a90499bdf6b.png)
+![battery_screenshot](https://user-images.githubusercontent.com/117754156/211015875-91aea248-67cc-40f0-b5f1-1b96eba09b1a.png)
+![battery_xqr](https://user-images.githubusercontent.com/117754156/211015878-72858171-5fb7-48ca-973f-779e3d01213d.png)
+![fireworks_screenshot](https://user-images.githubusercontent.com/117754156/211015881-7e362776-e03b-4097-ab8b-4046cdb93864.png)
+![fireworks_xqr](https://user-images.githubusercontent.com/117754156/211015884-61ea6a65-d2ce-4873-a602-2661f45e5b24.png)
+![gauges_screenshot](https://user-images.githubusercontent.com/117754156/211015886-1bb19eb4-8efd-4610-a6f4-4519bc34f057.png)
+![gauges_xqr](https://user-images.githubusercontent.com/117754156/211015889-92084819-b09b-4c4e-9b97-59349a9b97e1.png)
+![gps_speed_screenshot](https://user-images.githubusercontent.com/117754156/211015890-67c4695b-6f30-4520-9409-dc3f5e0a6a74.png)
+![gps_speed_xqr](https://user-images.githubusercontent.com/117754156/211015891-9ccb5e2e-b32f-442f-b208-c0912bc447e5.png)
+![knob_over_oled_screenshot](https://user-images.githubusercontent.com/117754156/211015892-1ce673c3-7198-4e13-a7a1-20152f22545f.png)
+![knob_over_oled_xqr](https://user-images.githubusercontent.com/117754156/211015894-08258518-e148-4f5f-a9ca-a4b85b2c60b0.png)
+![parksensor_screenshot](https://user-images.githubusercontent.com/117754156/211015895-07fddf32-b905-4c5d-b9cd-ede5d282abb1.png)
+![parksensor_xqr](https://user-images.githubusercontent.com/117754156/211015896-13693a2b-6228-4127-a956-8f40b1701d11.png)
+![turbo_screenshot](https://user-images.githubusercontent.com/117754156/211015897-2b304968-2b6a-47f0-8442-49d082e0a1e7.png)
+![turbo_xqr](https://user-images.githubusercontent.com/117754156/211015898-079075e4-89bd-414e-aedb-b8f0481d140c.png)
 
 
 
