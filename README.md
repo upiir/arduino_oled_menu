@@ -4,7 +4,11 @@ Simple menu using Arduino UNO, 128x64px SSD1306 OLED Display and u8g library.
 
 **YOUTUBE VIDEO: https://youtu.be/HVHVkKt-ldc**
 
+**YOUTUBE VIDEO u8g vs. u8g2: https://youtu.be/K5e0lFRvZ2E**
+
 **WOKWI PROJECT: https://wokwi.com/projects/353105561979929601**
+
+**WOKWI PROJECT u8g2: https://wokwi.com/projects/358725862609555457**
 
 ![THUMB_flipper_zero_arduino_oled_menu](https://user-images.githubusercontent.com/117754156/211013886-2e71dfe1-d69c-4260-87b8-94f2f2390a59.jpg)
 
@@ -30,6 +34,10 @@ A simple menu using a 128x64 SSD1306 OLED Display connected using the IIC (I2C) 
 - Photopea (online Photoshop-like tool): https://www.photopea.com/
 - image2cpp (convert images into C code): https://javl.github.io/image2cpp/
 - Push buttons - https://s.click.aliexpress.com/e/_DmXS8B9
+- LCD displays: https://s.click.aliexpress.com/e/_DBgR45P
+- u8g2 documentation: https://github.com/olikraus/u8g2/wiki/u8gvsu8g2
+- Image Magick: https://imagemagick.org/index.php
+- LCD Image converter: https://lcd-image-converter.riuson.com/en/about/
 
 **Related videos:**
 - Arduino Parking Sensor - https://youtu.be/sEWw087KOj0
@@ -93,4 +101,33 @@ Few screenshots from the video:
 ![turbo_xqr](https://user-images.githubusercontent.com/117754156/211015898-079075e4-89bd-414e-aedb-b8f0481d140c.png)
 
 
+
+Screenshots from the video using the u8g2 library:
+
+![CAMTASIA_u8g_vs_u8g2 (Time 0_00_01;23)](https://user-images.githubusercontent.com/117754156/224031248-3d2d474c-a038-44ef-ad2b-a743a710e819.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_00_10;21)](https://user-images.githubusercontent.com/117754156/224031252-fd56c354-3740-4be0-8f59-a4a1d75e0430.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_00_12;21)](https://user-images.githubusercontent.com/117754156/224031262-058ac657-d461-4021-83fd-68d7da84d7ff.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_00_14;22)](https://user-images.githubusercontent.com/117754156/224031265-827aa29e-a77b-4ea6-8bc1-cdfe65431ae4.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_00_23;22)](https://user-images.githubusercontent.com/117754156/224031270-561b80eb-e5ae-4052-ae05-5b6b3d904b16.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_05_20;14)](https://user-images.githubusercontent.com/117754156/224031278-abfad8c4-27d0-4b58-a3f8-63f86a5da78f.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_05_48;03)](https://user-images.githubusercontent.com/117754156/224031284-dcc3c44f-ff88-43b3-947f-7e9d3b4f6d38.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_05_54;09)](https://user-images.githubusercontent.com/117754156/224031286-5f0a89a7-ac68-4f89-8117-244eb9e956d9.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_06_23;11)](https://user-images.githubusercontent.com/117754156/224031289-4565b37a-bbce-44df-bca6-ca96c05f3ccf.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_06_46;00)](https://user-images.githubusercontent.com/117754156/224031294-46132175-66ad-473e-a7d1-b49fe3d37822.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_07_43;12)](https://user-images.githubusercontent.com/117754156/224031298-9141e650-f411-4d1e-aa86-c60cb0ed4290.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_08_05;12)](https://user-images.githubusercontent.com/117754156/224031299-c7091d64-e303-4e98-8402-e06ac951f9b6.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_09_42;23)](https://user-images.githubusercontent.com/117754156/224031303-fdacea2c-ab01-4fe1-a51d-09306e3295f3.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_10_09;18)](https://user-images.githubusercontent.com/117754156/224031305-f684c23f-7b8e-4796-ae07-c2feec04166d.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_10_15;20)](https://user-images.githubusercontent.com/117754156/224031307-30bcef00-3ac3-4ab2-a5a1-611b5f9d97a8.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_10_20;25)](https://user-images.githubusercontent.com/117754156/224031311-182175bf-6b99-4ba0-94d5-b2978f0ed1f6.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_10_32;02)](https://user-images.githubusercontent.com/117754156/224031317-0a8deaac-b0f9-4762-93f5-be858b160bd7.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_10_55;26)](https://user-images.githubusercontent.com/117754156/224031319-19b20b4a-ef08-4148-8008-79aa65068371.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_11_15;20)](https://user-images.githubusercontent.com/117754156/224031320-d996468c-06b4-49f7-a746-4ee37c5e075c.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_14_51;16)](https://user-images.githubusercontent.com/117754156/224031325-0223e5d1-536f-4971-bea4-cddc3f4117ff.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_17;22)](https://user-images.githubusercontent.com/117754156/224031329-354b5f1a-5be2-4ae5-a824-7af513e41fd1.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_20;04)](https://user-images.githubusercontent.com/117754156/224031334-20068b67-11d1-4d98-846d-28a1653f03fe.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_26;15)](https://user-images.githubusercontent.com/117754156/224031339-4cda0ede-15f8-4108-bfdc-74e3dc556dbd.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_31;06)](https://user-images.githubusercontent.com/117754156/224031340-9e33b0a4-d511-4f68-8233-cefdedb7dcea.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_37;08)](https://user-images.githubusercontent.com/117754156/224031343-f74e0aef-bad6-4dbf-a6cb-be47564d0b00.jpg)
+![CAMTASIA_u8g_vs_u8g2 (Time 0_15_42;13)](https://user-images.githubusercontent.com/117754156/224031347-b6eaa8ac-179a-48f7-a98a-8e9cc3294f70.jpg)
 
